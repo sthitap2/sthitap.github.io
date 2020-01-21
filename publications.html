@@ -1,0 +1,26 @@
+---
+layout: page
+<!-- title: Experience -->
+---
+{% if site.data.publications %}
+  <!-- begin Experience -->
+    <section class="content-section">
+      <header class="section-header">
+          <h2>Publications</h2>
+      </header>
+      <header class="subsection-header">
+        <h4>Journals and Conferences</h4>
+      </header>
+
+   {% for job in site.data.publications %}
+   <div class="resume-item" itemscope itemprop="worksFor" itemtype="http://schema.org/Organization">
+       <h34 class="resume-item-title" itemprop="name">{{ job.company }}</h3>
+<!--        <h22 class="resume-item-details" itemprop="description">{{ job.position }} &bull; {{ job.duration }}</h4> -->
+<!--        <img src="resume-item-details" itemprop="image">{{job.image }} </img> -->
+<!--        <p class="resume-item-copy">{{ job.summary }}</p> -->
+   </div><!-- end of resume-item -->
+   {% endfor %}
+
+   </section>
+   <!-- end Experience -->
+   {% endif %}

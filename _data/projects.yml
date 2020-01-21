@@ -1,0 +1,65 @@
+- name: "◦ Inducing Diversity in Task Oriented Multi-modal Dialogue Systems"
+#   github:
+#     repo: "SCN-Sentence-Compression-through-Deletion-using-Stacked-LSTM"
+#   url: "https://shandilya21.github.io/SCN-Sentence-Compression-through-Deletion-using-Stacked-LSTM"
+#   source_url: "https://github.com/Shandilya21/SCN-Sentence-Compression-through-Deletion-using-Stacked-LSTM"
+  description:
+    - Supervisor- Prof. Asif Ekbal, Prof. Pushpak Bhattacharyya, Indian Institute of Technology, Patna
+    - We propose a novel approach & techniques which helps for any goal-oriented conversational 
+      agents, to improve their system responses that will be informative, diverse ,leading to better
+      user experience.
+#     - Submitted to ACM Transaction of Knowledge Discovery from Data (ACM)
+
+- name: "More to Perceptual in Super Resolution"
+#   github:
+#     repo: "Improved-Optimization-Techniques-for-Super-Resoultion-in-Images"
+#   url: "https://shandilya21.github.io/Improved-Optimization-Techniques-for-Super-Resoultion-in-Images"
+#   source_url: "https://github.com/Shandilya21/Improved-Optimization-Techniques-for-Super-Resoultion-in-Images"
+  description:
+      - Supervisor - Prof. Vinod Pankajakshan, Indian Institute of Technology, Roorkee, India
+      - A. Ravi Tej*, Shirsendu Halder, Arunav Shandeelya, Vinod Pankajakshan 
+      - Introduced a novel loss formulation derived from GAN based network in which discriminator 
+        network provides strong supervision to generator for erasing the artifacts generated from 
+        pre-trained perceptual loss function.
+      - Utilizing the latent features from the discriminator, we adaptively filter the unwanted 
+        information introduced by the perceptual loss.
+      - Submitted to IEEE Joint Conference on Neural Networks, Glasgow, United Kingdom
+
+- name: "Predictive Model for Extractive Text Summarizations"
+#   github:
+#     repo: "SCN-Sentence-Compression-through-Deletion-using-Stacked-LSTM"
+#   url: "https://shandilya21.github.io/SCN-Sentence-Compression-through-Deletion-using-Stacked-LSTM"
+#   source_url: "https://github.com/Shandilya21/SCN-Sentence-Compression-through-Deletion-using-Stacked-LSTM"
+  description:
+    - Supervisor- Prof. Rakesh Balabantaray, International Institute of Information Technology, Bhubaneswar
+    - Extractive Summarizations - based on the sequence phrases on Google Open Domain Dataset. 
+    - Extractive based Sentence Compression Using stacked LSTM. Study and Implemented LSTM Architecture 
+      for Sentence Compression. Achieved accuracy of (79.25%) in 5_ words window and 73.48% in 3_words 
+      window architecture models.
+#     - Can be used for the making long summary news report into shorter & meaningful. 
+#   tech: "Python, linux 'Keras' Java (StanfordCoreNLP), gloVe, Sklearn"
+        
+- name: "Information Retrieval from Micro blogs during Disasters"
+#   github:
+#     repo: ""
+#   url: ""
+#   source_url: "https://github.com/"
+  description:
+    - Supervisor- Prof. Rakesh Balabantaray, International Institute of Information Technology, Bhubaneswar
+    - We present a system which analyses the emergency-related tweets to classify
+      them as need and available tweets.
+    - Real-time analysis of this huge collected data can play a vital role in crisis assessment,
+      response and relief activities.
+#     - Submitted in Journal of Information and Intelligent Systems , Springer.
+#   tech: "Python, Keras, Scikit-learn, Apache Storm"
+
+# - name: "Backdoor"
+#   url: "https://backdoor.sdslabs.co/"
+#   description:
+#     - Capture the Flag styled always online wargame with frequent computer security competitions
+#     - Developed the entire backend of the website, see <a href="https://blog.sdslabs.co/2014/10/launching-backdoor">blog</a>
+#     - Developed a secure sandboxed environment to run vulnerable challenges, see <a href="https://dhavalkapil.com/blogs/Combining-chroot-and-xinetd/">blog</a>
+#     - Designed <a href="https://backdoor.sdslabs.co/users/vampire">25 challenges</a> ranging from web, binary and cryptography
+#     - Hosted various international competitions and managed the server
+#     - 5000+ registered users, >200 submissions every week
+#   tech: "PHP(MVC), MySQL, Memcache, chroot, xinetd, system administration"

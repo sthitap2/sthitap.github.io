@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /Arunav_resume.pdf
+Sitemap: https://shandilya21.github.io/sitemap.xml
